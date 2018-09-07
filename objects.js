@@ -11,6 +11,6 @@ var playlist = { "bob" : "rolling"}
 
 function updatePlaylist(playlist, artistName, songTitle){
 
-playlist[artisName] = songTitle;
+playlist[artistName] = songTitle;
 return playlist
 }
