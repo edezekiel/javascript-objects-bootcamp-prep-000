@@ -6,7 +6,7 @@
 //
 // var meals = new Object({ breakfast: 'oatmeal'})
 //
-var playlist = { bob : rolling}
+var playlist = { "bob" : "rolling"}
 
 
 function updatePlaylist(playlist, artistName, songTitle){
